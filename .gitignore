@@ -172,3 +172,7 @@ depot/*
 coqui_recipes/*
 local_scripts/*
 coqui_demos/*
+tts_models
+xtts_models
+output
+.gradio
